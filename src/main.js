@@ -5,6 +5,6 @@ function switchbutton ()
   }
     else 
         {
-            document.getElementById("myImage").src='Capture.png';
+            document.getElementById("myImage").src='../img/Capture.png';
         }
 }
