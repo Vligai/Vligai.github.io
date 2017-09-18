@@ -1,0 +1,45 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vladligai.github.io" resolutions="1x,2x" timestamp="1505766714480">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3993148257" ref="about:index:contact:portfolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="142320785" ref="about:index:contact:portfolio"/>
+    <file name="about.css" crc="103844902" ref="about"/>
+    <file name="nomq_about.css" crc="318629293" ref="about"/>
+    <file name="index.css" crc="103844902" ref="index"/>
+    <file name="nomq_index.css" crc="318629293" ref="index"/>
+    <file name="contact.css" crc="103844902" ref="contact"/>
+    <file name="nomq_contact.css" crc="318629293" ref="contact"/>
+    <file name="portfolio.css" crc="103844902" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="318629293" ref="portfolio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="172512987" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="3986320349" ref="index:about:portfolio:contact"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:about:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="4159430777" ref="index:about:portfolio:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="u301-4.png" crc="58319175" ref="index:about:portfolio:contact"/>
+    <file name="u301-4_2x.png" crc="481863695" ref="index:about:portfolio:contact"/>
+    <file name="u310-4.png" crc="3979381897" ref="index:about:portfolio:contact"/>
+    <file name="u310-4_2x.png" crc="3984107" ref="index:about:portfolio:contact"/>
+    <file name="u345-4.png" crc="44872590" ref="index:about:portfolio:contact"/>
+    <file name="u345-4_2x.png" crc="4072850468" ref="index:about:portfolio:contact"/>
+    <file name="u372-4.png" crc="3920160122" ref="index:about:portfolio:contact"/>
+    <file name="u372-4_2x.png" crc="4169979915" ref="index:about:portfolio:contact"/>
+    <file name="u2506-4.png" crc="51462528" ref="index:about:portfolio:contact"/>
+    <file name="u2506-4_2x.png" crc="424666610" ref="index:about:portfolio:contact"/>
+  </folder>
+  <file name="index.html" crc="4038866084" seo="true" mt="1505749488127" redirect="true"/>
+  <file name="about.html" crc="276109024" seo="true" mt="1505749488127" redirect="true"/>
+  <file name="portfolio.html" crc="4002611558" seo="true" mt="1505749488127" redirect="true"/>
+  <file name="contact.html" crc="3889185905" seo="true" mt="1505749488127" redirect="true"/>
+</manifest>
