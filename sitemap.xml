@@ -37,24 +37,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Vligai.github.io/images/github-512120x120.png</loc>
-    <lastmod>2017-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Vligai.github.io/images/github-512120x120_2x.png</loc>
-    <lastmod>2017-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Vligai.github.io/images/github-51294x94.png</loc>
-    <lastmod>2017-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://Vligai.github.io/images/123.jpg</loc>
     <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,24 +44,6 @@
   </url>
   <url>
     <loc>http://Vligai.github.io/images/123_2x.jpg</loc>
-    <lastmod>2017-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Vligai.github.io/images/github-51250x50_2x.png</loc>
-    <lastmod>2017-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Vligai.github.io/images/linkedin-icon-logo-05b2880899-seeklogocom.png</loc>
-    <lastmod>2017-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Vligai.github.io/images/linkedin-icon-logo-05b2880899-seeklogocom_2x.png</loc>
     <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -109,13 +73,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Vligai.github.io/images/github-51294x94_2x.png</loc>
+    <loc>http://Vligai.github.io/images/linkedin-icon-logo-05b2880899-seeklogocom.png</loc>
     <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://Vligai.github.io/images/github-51250x50.png</loc>
+    <loc>http://Vligai.github.io/images/linkedin-icon-logo-05b2880899-seeklogocom_2x.png</loc>
     <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

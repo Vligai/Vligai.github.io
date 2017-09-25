@@ -1,20 +1,20 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Vligai.github.io" resolutions="1x,2x" timestamp="1506372799621">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Vligai.github.io" resolutions="1x,2x" timestamp="1506380568100">
   <folder name="assets">
     <file name="resume.pdf" crc="3870954465" seo="true" mt="1505761384000"/>
     <file name="linkedin-icon-logo-05b2880899-seeklogo.com.png" crc="239384870" seo="true" mt="1506117436000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4082084591" ref="about:index:contact:portfolio"/>
+    <file name="master_a-master.css" crc="4273160578" ref="about:index:contact:portfolio"/>
     <file name="nomq_preview_master_a-master.css" crc="142320785" ref="about:index:contact:portfolio"/>
-    <file name="about.css" crc="503779297" ref="about"/>
-    <file name="nomq_about.css" crc="4280603404" ref="about"/>
-    <file name="index.css" crc="90086053" ref="index"/>
-    <file name="nomq_index.css" crc="4214584777" ref="index"/>
-    <file name="contact.css" crc="392101850" ref="contact"/>
-    <file name="nomq_contact.css" crc="381105169" ref="contact"/>
-    <file name="portfolio.css" crc="361975540" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4069342343" ref="portfolio"/>
+    <file name="about.css" crc="3802992826" ref="about"/>
+    <file name="nomq_about.css" crc="344790038" ref="about"/>
+    <file name="index.css" crc="4010007379" ref="index"/>
+    <file name="nomq_index.css" crc="3973944441" ref="index"/>
+    <file name="contact.css" crc="81569287" ref="contact"/>
+    <file name="nomq_contact.css" crc="11477307" ref="contact"/>
+    <file name="portfolio.css" crc="531461773" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3889543537" ref="portfolio"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
@@ -43,30 +43,24 @@
     <file name="u2506-4_2x.png" crc="240644937" ref="index:about:portfolio:contact"/>
     <file name="123.jpg" crc="415203197" seo="true" ref="index"/>
     <file name="123_2x.jpg" crc="3888662926" seo="true" ref="index"/>
-    <file name="u4185-13.png" crc="3929658499" ref="about"/>
-    <file name="u4185-13_2x.png" crc="4239314966" ref="about"/>
-    <file name="u4185-132.png" crc="383753294" ref="about"/>
-    <file name="u4185-13_2x2.png" crc="78562727" ref="about"/>
-    <file name="u4185-133.png" crc="3964315883" ref="about"/>
-    <file name="u4185-13_2x3.png" crc="3868500126" ref="about"/>
-    <file name="u4185-134.png" crc="277280466" ref="about"/>
-    <file name="u4185-13_2x4.png" crc="4208090419" ref="about"/>
+    <file name="u4185-13.png" crc="509380864" ref="about"/>
+    <file name="u4185-13_2x.png" crc="4199931325" ref="about"/>
+    <file name="u4185-132.png" crc="509380864" ref="about"/>
+    <file name="u4185-13_2x2.png" crc="4199931325" ref="about"/>
+    <file name="u4185-133.png" crc="509380864" ref="about"/>
+    <file name="u4185-13_2x3.png" crc="4199931325" ref="about"/>
+    <file name="u4185-134.png" crc="509380864" ref="about"/>
+    <file name="u4185-13_2x4.png" crc="4199931325" ref="about"/>
     <file name="u4082-4.png" crc="99344088" ref="portfolio"/>
     <file name="u4082-4_2x.png" crc="3851955151" ref="portfolio"/>
     <file name="github-512.png" crc="80984197" seo="true" ref="portfolio"/>
     <file name="github-512_2x.png" crc="3927189813" seo="true" ref="portfolio"/>
     <file name="u4082-42.png" crc="476189905" ref="portfolio"/>
     <file name="u4082-4_2x2.png" crc="3786519151" ref="portfolio"/>
-    <file name="github-512120x120.png" crc="4225136601" seo="true" ref="portfolio"/>
-    <file name="github-512120x120_2x.png" crc="452710924" seo="true" ref="portfolio"/>
     <file name="u4082-43.png" crc="145720330" ref="portfolio"/>
     <file name="u4082-4_2x3.png" crc="257727847" ref="portfolio"/>
-    <file name="github-51294x94.png" crc="4170582561" seo="true" ref="portfolio"/>
-    <file name="github-51294x94_2x.png" crc="3815317026" seo="true" ref="portfolio"/>
     <file name="u4082-44.png" crc="58138773" ref="portfolio"/>
     <file name="u4082-4_2x4.png" crc="4226319011" ref="portfolio"/>
-    <file name="github-51250x50.png" crc="3789281935" seo="true" ref="portfolio"/>
-    <file name="github-51250x50_2x.png" crc="492361693" seo="true" ref="portfolio"/>
     <file name="u4024-7.png" crc="143731028" ref="contact"/>
     <file name="u4024-7_2x.png" crc="3823518315" ref="contact"/>
     <file name="linkedin-icon-logo-05b2880899-seeklogocom.png" crc="410963982" seo="true" ref="contact"/>
@@ -82,8 +76,8 @@
     <file name="u4024-75.png" crc="143731028" ref="contact"/>
     <file name="u4024-7_2x5.png" crc="3823518315" ref="contact"/>
   </folder>
-  <file name="index.html" crc="219193228" seo="true" mt="1506372373238" redirect="true"/>
-  <file name="about.html" crc="292264951" seo="true" mt="1506372373238" redirect="true"/>
-  <file name="portfolio.html" crc="3922947317" seo="true" mt="1506372373238" redirect="true"/>
-  <file name="contact.html" crc="199637754" seo="true" mt="1506372373238" redirect="true"/>
+  <file name="index.html" crc="200302307" seo="true" mt="1506380330574" redirect="true"/>
+  <file name="about.html" crc="355737106" seo="true" mt="1506380380660" redirect="true"/>
+  <file name="portfolio.html" crc="3918013563" seo="true" mt="1506380433158" redirect="true"/>
+  <file name="contact.html" crc="4214142086" seo="true" mt="1506380354210" redirect="true"/>
 </manifest>
