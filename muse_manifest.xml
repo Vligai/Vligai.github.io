@@ -1,20 +1,20 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Vligai.github.io" resolutions="1x,2x" timestamp="1506119471296">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Vligai.github.io" resolutions="1x,2x" timestamp="1506372799621">
   <folder name="assets">
     <file name="resume.pdf" crc="3870954465" seo="true" mt="1505761384000"/>
     <file name="linkedin-icon-logo-05b2880899-seeklogo.com.png" crc="239384870" seo="true" mt="1506117436000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="203759965" ref="about:index:contact:portfolio"/>
-    <file name="nomq_preview_master_a-master.css" crc="17906094" ref="about:index:contact:portfolio"/>
-    <file name="about.css" crc="3789826617" ref="about"/>
-    <file name="nomq_about.css" crc="518955836" ref="about"/>
-    <file name="index.css" crc="112892734" ref="index"/>
-    <file name="nomq_index.css" crc="4248817615" ref="index"/>
-    <file name="contact.css" crc="3799460297" ref="contact"/>
-    <file name="nomq_contact.css" crc="3875274743" ref="contact"/>
-    <file name="portfolio.css" crc="3869252691" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="536581223" ref="portfolio"/>
+    <file name="master_a-master.css" crc="4082084591" ref="about:index:contact:portfolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="142320785" ref="about:index:contact:portfolio"/>
+    <file name="about.css" crc="503779297" ref="about"/>
+    <file name="nomq_about.css" crc="4280603404" ref="about"/>
+    <file name="index.css" crc="90086053" ref="index"/>
+    <file name="nomq_index.css" crc="4214584777" ref="index"/>
+    <file name="contact.css" crc="392101850" ref="contact"/>
+    <file name="nomq_contact.css" crc="381105169" ref="contact"/>
+    <file name="portfolio.css" crc="361975540" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4069342343" ref="portfolio"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
@@ -75,25 +75,15 @@
     <file name="best-free-facebook-home-logo-old-photos_2x.png" crc="3918079748" seo="true" ref="contact"/>
     <file name="u4024-72.png" crc="143731028" ref="contact"/>
     <file name="u4024-7_2x2.png" crc="3823518315" ref="contact"/>
-    <file name="linkedin-icon-logo-05b2880899-seeklogocom107x107.png" crc="303194132" seo="true" ref="contact"/>
-    <file name="linkedin-icon-logo-05b2880899-seeklogocom107x107_2x.png" crc="126828604" seo="true" ref="contact"/>
-    <file name="best-free-facebook-home-logo-old-photos107x107.png" crc="4081308556" seo="true" ref="contact"/>
-    <file name="best-free-facebook-home-logo-old-photos107x107_2x.png" crc="138471376" seo="true" ref="contact"/>
     <file name="u4024-73.png" crc="143731028" ref="contact"/>
     <file name="u4024-7_2x3.png" crc="3823518315" ref="contact"/>
-    <file name="linkedin-icon-logo-05b2880899-seeklogocom84x84.png" crc="3827710310" seo="true" ref="contact"/>
-    <file name="linkedin-icon-logo-05b2880899-seeklogocom84x84_2x.png" crc="362721398" seo="true" ref="contact"/>
-    <file name="best-free-facebook-home-logo-old-photos84x84.png" crc="4268021254" seo="true" ref="contact"/>
-    <file name="best-free-facebook-home-logo-old-photos84x84_2x.png" crc="4213140024" seo="true" ref="contact"/>
     <file name="u4024-74.png" crc="143731028" ref="contact"/>
     <file name="u4024-7_2x4.png" crc="3823518315" ref="contact"/>
-    <file name="linkedin-icon-logo-05b2880899-seeklogocom45x45.png" crc="60339530" seo="true" ref="contact"/>
-    <file name="linkedin-icon-logo-05b2880899-seeklogocom45x45_2x.png" crc="4203884648" seo="true" ref="contact"/>
-    <file name="best-free-facebook-home-logo-old-photos45x45.png" crc="4036856323" seo="true" ref="contact"/>
-    <file name="best-free-facebook-home-logo-old-photos45x45_2x.png" crc="397824336" seo="true" ref="contact"/>
+    <file name="u4024-75.png" crc="143731028" ref="contact"/>
+    <file name="u4024-7_2x5.png" crc="3823518315" ref="contact"/>
   </folder>
-  <file name="index.html" crc="163435813" seo="true" mt="1506118130983" redirect="true"/>
-  <file name="about.html" crc="4089600771" seo="true" mt="1506119335460" redirect="true"/>
-  <file name="portfolio.html" crc="4211819422" seo="true" mt="1506118166402" redirect="true"/>
-  <file name="contact.html" crc="4234181428" seo="true" mt="1506117707366" redirect="true"/>
+  <file name="index.html" crc="219193228" seo="true" mt="1506372373238" redirect="true"/>
+  <file name="about.html" crc="292264951" seo="true" mt="1506372373238" redirect="true"/>
+  <file name="portfolio.html" crc="3922947317" seo="true" mt="1506372373238" redirect="true"/>
+  <file name="contact.html" crc="199637754" seo="true" mt="1506372373238" redirect="true"/>
 </manifest>
